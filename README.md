@@ -1,6 +1,7 @@
 # jing微信小程序开发实战。
 ## 组件化开发
 ## 主要实现的功能：
+- 
 ## 页面展示：
 ![image](https://github.com/hejh1995/project-img/blob/master/picture/1.png)
 ![image](https://github.com/hejh1995/project-img/blob/master/picture/2.png)
